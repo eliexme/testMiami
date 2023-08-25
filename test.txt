@@ -1,1 +1,13 @@
-Hello everyone
+
+ls
+cd
+mkdir
+
+
+//git init
+git status
+git add .
+git commit -m
+git push origin main/master
+
+I am going to commit again
